@@ -1,6 +1,6 @@
 # hide-tailwind-scrollbar
-## Installation
 
+## Installation
 Install the plugin from npm:
 
 ```sh
@@ -27,5 +27,8 @@ module.exports = {
 ## Now you can use it like this
 
 ```jsx
-<div className="w-4 scrollbar-hide">...</div>
+<div className="scrollbar-hide">...</div>
 ```
+
+## EXTRAS
+The name of the plugin is bad i know i know also i am thinking of adding more plugins doing the different thing to the scrollbars may be write them some other time.
