@@ -1,6 +1,6 @@
 {
   "name": "hide-tailwind-scrollbar",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Basically helps to hide the scrollbar when using tailwind.",
   "main": "index.js",
   "scripts": {
