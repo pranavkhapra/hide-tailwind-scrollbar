@@ -31,4 +31,4 @@ module.exports = {
 ```
 
 ## EXTRAS
-The name of the plugin is bad i know i know also i am thinking of adding more plugins doing the different thing to the scrollbars may be write them some other time.
+*i am thinking of adding more plugins doing the different thing to the scrollbars may be write them some other time.
